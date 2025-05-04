@@ -1,0 +1,6 @@
+@HiLoGamingApi_HostAddress = http://localhost:5094
+
+GET {{HiLoGamingApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
